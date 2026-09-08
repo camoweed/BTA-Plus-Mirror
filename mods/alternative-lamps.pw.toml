@@ -1,0 +1,13 @@
+name = "Alternative Lamps"
+filename = "alternativelamps-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/Alternative-Lamps-BTA/releases/download/1.0.1/alternativelamps-1.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "c9e3fd2d07ca5d4e40c3cf190b40d0656c87d9b0e61c6e0413dab4671b35bef0"
+
+[option]
+optional = true
+default = true
+description = "Adds modern-ish redstone lamps to BTA! in addition to regular lamps."

@@ -1,0 +1,13 @@
+name = "BetterWithGenders"
+filename = "betterwithgenders-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bacrian/BetterWithGenders/releases/download/1.0.2/betterwithgenders-1.0.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "87f140e6b79edf82110b3be1d0ea4aefa351e8f03a6055b52702ac0c204486fd"
+
+[option]
+optional = true
+default = true
+description = "Better With Genders is a cosmetic mod that adds genders to Minecraft BTA, along with some configurations meant for player customization. It's not meant to be a huge mod with gameplay-changing mechanics, but rather a small addition for further characterization."

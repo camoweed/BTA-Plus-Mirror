@@ -1,0 +1,13 @@
+name = "Flower Pots"
+filename = "flowerpots-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThisIsVerse/BTA-Flower-Pots/releases/download/v1.0.0/flowerpots-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "95650174faab62953100b063657b8210c2256a455d0ecc1469f0b9d216274cea"
+
+[option]
+optional = true
+default = true
+description = "A backport of modern Minecraft flower pots for Better than Adventure 8.0.1."

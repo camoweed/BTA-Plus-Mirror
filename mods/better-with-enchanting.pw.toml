@@ -1,0 +1,13 @@
+name = "Better With Enchanting"
+filename = "BetterWithEnchanting-1.1.10+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dAmuWevK/versions/2dtwo2D8/BetterWithEnchanting-1.1.10%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "50af8393adbc625354df4091abd17b41c8a1b4fc7d134438b2911ba1c8dd61b6"
+
+[option]
+optional = true
+default = true
+description = "Adds enchanting to the game reminiscent of release version of minecraft. Multiplayer compatible!"

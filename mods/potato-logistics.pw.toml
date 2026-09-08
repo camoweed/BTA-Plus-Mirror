@@ -1,0 +1,13 @@
+name = "Potato Logistics"
+filename = "potatologistics-1.3.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jA8wFqkM/versions/jFGh5onX/potatologistics-1.3.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "f36cc6a3210ab14881a85b79405b2e971dc9975238c052086b9cff71cd0db1ff"
+
+[option]
+optional = true
+default = true
+description = "A mod for logistics and automation for Better than Adventure."

@@ -1,0 +1,13 @@
+name = "Writing Sheets"
+filename = "writingsheets-1.2.2+8.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/bta-writing-sheets/releases/download/1.2.2/writingsheets-1.2.2+8.0.jar"
+hash-format = "sha256"
+hash = "1bf8abceddeea73178b28d3aac8066d43f73bf520967fdd92f20fda8ee0cbbe5"
+
+[option]
+optional = true
+default = true
+description = "Crafts with Paper and Ink. Крафтится с помощью Бумаги и Чернил."

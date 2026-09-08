@@ -1,0 +1,13 @@
+name = "Tool Forging"
+filename = "toolforging-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LECASTI/tool-forging-bta/releases/download/review-1.1.0/toolforging-1.1.0.jar"
+hash-format = "sha256"
+hash = "41badda1a38468daabd38658a10a8074b91f5fef496541a20520858856b41bc3"
+
+[option]
+optional = true
+default = true
+description = "This is a mod for Minecraft Better Than Adventure 8.0-pre2 that adds a `Reforging Anvil`. It allows players to re-roll the stats of their tools by consuming a material corresponding to the tool's tier (e.g. Diamond for Diamond Pickaxe)."

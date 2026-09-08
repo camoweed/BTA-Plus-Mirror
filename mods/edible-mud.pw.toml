@@ -1,0 +1,13 @@
+name = "Edible Mud"
+filename = "ediblemud-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRquQGIf/versions/jvdSWkvi/ediblemud-1.1.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "be5d1352a2676230d21056f03ff8b3502f24ac43938c56c520fb4767ffb088e2"
+
+[option]
+optional = true
+default = true
+description = "Adds edible mud which can placed and eaten."

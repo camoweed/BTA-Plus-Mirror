@@ -1,0 +1,13 @@
+name = "Ironchests"
+filename = "afloydironchest-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/UselessSolutions/bta-ironchests/releases/download/v3.0.2-8.0.1/afloydironchest-3.0.2.jar"
+hash-format = "sha256"
+hash = "0e82d81a3b40f4e10842e418f7ef0922266c0f203e844ffbce2733f44e84e622"
+
+[option]
+optional = true
+default = true
+description = "Adds expanded storage options with upgradable chest tiers!"

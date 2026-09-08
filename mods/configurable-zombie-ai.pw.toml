@@ -1,0 +1,13 @@
+name = "Configurable Zombie AI"
+filename = "configurablezombieai-0.1.3+bta-8.0.1-babric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gWZ64Is5/versions/hhnelMlM/configurablezombieai-0.1.3%2Bbta-8.0.1-babric.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "67049247561c36978374aa442f62aab52e6d2da13ac76399585700ea3a636828"
+
+[option]
+optional = true
+default = true
+description = "Configurable Zombie AI is a mod that makes vanilla zombies easier to tune for harder survival servers and modpacks."

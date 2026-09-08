@@ -1,0 +1,13 @@
+name = "Elemental Creepers BTA"
+filename = "elementalcreepers-1.4.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinthepwner/elemental-creepers-bta/releases/download/v1.4.0/elementalcreepers-1.4.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "a674928b7642909b36d741d27205ef9c91aab806ba97c5eddbc1eb9730013a05"
+
+[option]
+optional = true
+default = true
+description = "Elemental Creepers 1.4 for Minecraft b1.7.3, ported to BTA 8.0.1. Nine creepers that do something other than blow a hole in the ground."

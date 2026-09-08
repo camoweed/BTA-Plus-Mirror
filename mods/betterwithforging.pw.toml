@@ -1,0 +1,13 @@
+name = "BetterWithForging"
+filename = "forging-1.2.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/miniaturetruffle/BetterWithForging/releases/download/1.2.2/forging-1.2.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "92e1e4fc19703858e3509e68618e3446e2e04161c8cf8b381441997923703c74"
+
+[option]
+optional = true
+default = true
+description = "Do YOU want a mod that adds enchanting without adding enchanting? Give Better With Forging a Try!"

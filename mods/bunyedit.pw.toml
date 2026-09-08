@@ -1,0 +1,13 @@
+name = "bunyedit"
+filename = "bunyedit-0.8.1-port-alpha.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sqbi-q/bunyedit/releases/download/v0.8.1-port-alpha/bunyedit-0.8.1-port-alpha.jar"
+hash-format = "sha256"
+hash = "22d243bb6639207f00241c390ef68e10053d2ac15938254e320426fafe4dd769"
+
+[option]
+optional = true
+default = true
+description = "worldedit for bunys"

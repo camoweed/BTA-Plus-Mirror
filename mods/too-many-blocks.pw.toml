@@ -1,0 +1,13 @@
+name = "Too Many Blocks"
+filename = "tmb-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Testure/TMB/releases/download/v2.2.3/tmb-2.2.3.jar"
+hash-format = "sha256"
+hash = "0cef9fe0662322cbb45b3e27cb8481507e67d8514393bb39b334caea739f7445"
+
+[option]
+optional = true
+default = true
+description = "Too Many Blocks is a Not Enough Items clone for Better Than Adventure!"

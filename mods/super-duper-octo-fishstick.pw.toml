@@ -1,0 +1,13 @@
+name = "Super Duper Octo Fishstick"
+filename = "sdof-0.3.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KCIyJMTs/versions/BEGXYmFS/sdof-0.3.2%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "ef4f60cab974e7c3207ea32f4f64b112d232a0ba1907f2ffe196fe4db01cd3fd"
+
+[option]
+optional = true
+default = true
+description = "A small vanilla-friendly BTA! Babric mod that adds several building blocks that should be in the base game but aren't."

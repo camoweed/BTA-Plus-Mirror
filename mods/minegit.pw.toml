@@ -1,0 +1,13 @@
+name = "MineGIT"
+filename = "MineGIT-bta-1.5.2+1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XmKUq9G/versions/8QUea9nq/MineGIT-bta-1.5.2%2B1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "fbdd7dc9b8ab7dbb02b29802a472f10a14fc9172435759ea7f28960af9b472e8"
+
+[option]
+optional = true
+default = true
+description = "Minecraft cloud save system using the power of Git!"

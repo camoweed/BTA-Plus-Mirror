@@ -1,0 +1,13 @@
+name = "3D Skin Layers"
+filename = "bta3dskinlayers-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThisIsVerse/BTA-3D-Skin-Layers/releases/download/v1.0.0/bta3dskinlayers-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "bb422d103a30146ce39a747d526696e4579d467ef714c3427505fc2270a839c0"
+
+[option]
+optional = true
+default = true
+description = "BTA 3D Skin Layers brings voxel skin overlays to Better than Adventure 8.0.1. The second layer of a player skin is split into individual cubes instead of being rendered as a flat box around the player model."

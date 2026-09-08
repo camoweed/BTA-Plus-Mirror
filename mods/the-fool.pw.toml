@@ -1,0 +1,13 @@
+name = "The Fool"
+filename = "foolmod-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinthepwner/the-fool-bta/releases/download/v1.0.2/foolmod-1.0.2.jar"
+hash-format = "sha256"
+hash = "7f9275e72a1f24d768ae251e40b877dfe240fe753fcec6b0b7726c68c28e91f4"
+
+[option]
+optional = true
+default = false
+description = "Adds the Fool: an extremely rare mob that turns up day or night to snuff your torches, rifle your chests, wall up your doors and put up hideous wool follies. Hits you once, then runs for cover and disappears the moment nobody is looking"

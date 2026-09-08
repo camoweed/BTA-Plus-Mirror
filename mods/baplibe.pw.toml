@@ -1,0 +1,8 @@
+name = "baplibe"
+filename = "bapilib-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bacrian/BAPILib/releases/download/1.0.1/bapilib-1.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "884a4ee3675b412a6fde2f7e8467734918348483893550d29c4e2de061094312"

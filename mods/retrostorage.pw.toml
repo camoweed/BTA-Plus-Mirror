@@ -1,0 +1,13 @@
+name = "RetroStorage"
+filename = "retrostorage-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p0lDUkVB/versions/l4mvAXew/retrostorage-3.3.2.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "c6411fdc980a8c387796bcf93f4ad6802c79b264d6119caeeb8d8ef5f4d55a09"
+
+[option]
+optional = true
+default = true
+description = "RetroStorage (ReS) is a digital storage mod for old or special versions of minecraft inspired by mods such as Refined Storage or Applied Energistics 2. Although this mod is simpler than either of them. No channels or type limits."

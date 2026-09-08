@@ -1,0 +1,13 @@
+name = "No Food Stack"
+filename = "nofoodstack-1.0.4+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2iparDz/versions/3OaxFOVW/nofoodstack-1.0.4%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "1e9b5a3f71def2485fe529356d304cffade5e4613f9f7fc3e468ca6a84179f95"
+
+[option]
+optional = true
+default = false
+description = "A mod for Better Than Adventure that restores food stacking to BTA 7.1 behaviour."

@@ -1,0 +1,13 @@
+name = "Finally More Biomes"
+filename = "betteroplenty-0.1.14+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinthepwner/finally-more-biomes-bta/releases/download/v0.1.14/betteroplenty-0.1.14+8.0.1.jar"
+hash-format = "sha256"
+hash = "7ae8e527f5302aafb4b99782b1bc9bef24958b1287c09da8547c6889f52e0406"
+
+[option]
+optional = true
+default = true
+description = "A port of Biomes O' Plenty to Better than Adventure! 8.0.1, built on Babric."

@@ -1,0 +1,13 @@
+name = "weedbreak"
+filename = "weedbreak-1.0.0+8.0-pre3.jar"
+side = "both"
+
+[download]
+url = "https://download.rosesmp.com/public/hosted_mods/8.0/weedbreak-1.0.0%2B8.0-pre3.jar"
+hash-format = "sha256"
+hash = "3191f19f0ed661096b27a20feaf6587448e0a2604e1237ecc1e88bd1e7f162a3"
+
+[option]
+optional = true
+default = true
+description = "Increases mining speed by reducing the delay between hits. Based on melonbreak."

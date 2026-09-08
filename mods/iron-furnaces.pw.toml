@@ -1,0 +1,13 @@
+name = "Iron Furnaces"
+filename = "ironfurnaces-2.0.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XfecFg3V/versions/NQLAzhmd/ironfurnaces-2.0.0%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "121c4a6b93f6147fb4e3c74e05b8e0ad41df9af8ae2b15d709d0407b524a2953"
+
+[option]
+optional = true
+default = true
+description = "A simple mod that adds higher tiered furnaces to Minecraft Better Than Adventure!. Also has BTWaila support."

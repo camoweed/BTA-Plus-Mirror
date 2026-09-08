@@ -1,0 +1,13 @@
+name = "Golden Bat"
+filename = "goldenbat-1.1.2+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xcUMLOco/versions/P2n9Sl0k/goldenbat-1.1.2%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "58ce04015cd925c2682148a7e6b28737bb0ddb98d36df0351d370a8681989a9b"
+
+[option]
+optional = true
+default = true
+description = "Golden Bat is a fun and silly mod inspired by @scarycakes suggestion. It add a new artifact the golden bat rarely found in labyrinths. The bat send your foe either long or while crouching up high. Be mindfully when using it near glass or other easily breakable blocks."

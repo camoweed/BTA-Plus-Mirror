@@ -1,0 +1,13 @@
+name = "More Painting"
+filename = "morepainting-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/MorePainting/releases/download/1.0.0%2B8.0.1/morepainting-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "06faff53c40b4ad30a9abf06f7bac43bff46f1e31cf7e0fe9cbe3726c88d6b3c"
+
+[option]
+optional = true
+default = true
+description = "More Painting, does not add itself more painting. Instead it reworks how the painting system in BTA works. This allows asset packs to add more paintings. Importantly the mod is required on both the client and server to work."

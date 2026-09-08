@@ -1,0 +1,13 @@
+name = "Atomic"
+filename = "atomic-1.0.3+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/BlueMoonJune/Atomic/releases/download/1.0.3/atomic-1.0.3+8.0.1.jar"
+hash-format = "sha256"
+hash = "08903a183b9270b6f0314268b95bb21e24fe0dc8400cbdab7439d395c88a906e"
+
+[option]
+optional = true
+default = true
+description = "Atomic is a mod inspired by ones for standard Minecraft like Quark and Carpet. It adds a system similar to gamerules through the /atomic command. Currently, it's features primarily focus around redstone and automation"

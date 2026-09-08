@@ -1,0 +1,13 @@
+name = "Tribute"
+filename = "tribute-2.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LqNGmki0/versions/9hA6oSFe/tribute-2.0.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "6dc2d1e149ace9e4924df21a3dad3871dc4d517fe0716a0539c22633f74a41d0"
+
+[option]
+optional = true
+default = true
+description = "Have you ever felt like some blocks from Minecraft's past have been forgotten too easily? Not given enough love? Maybe you liked some blocks' previous versions that were replaced with ones with newer textures? Tribute has more than enough love to give for all of those. It also lets you convert blocks placed in your world on the fly, using the hourglass mechanics."

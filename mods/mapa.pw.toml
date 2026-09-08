@@ -1,0 +1,13 @@
+name = "Mapa"
+filename = "mapa-1.0.4-v8.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/55ptFNGH/versions/q0JnLxeE/mapa-1.0.4-v8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "9a7af6d72c99c07f0027080fb696d119e7ec91b3b08ea3101180ff3ababb4a0d"
+
+[option]
+optional = true
+default = true
+description = "World map and mini map for Better than Adventure."

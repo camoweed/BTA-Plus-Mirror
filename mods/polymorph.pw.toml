@@ -1,0 +1,13 @@
+name = "PolyMorph"
+filename = "polymorph-2.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/UselessSolutions/PolyMorph/releases/download/v2.0.0-8.0.1/polymorph-2.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "567043efc57497cf5e44d7c75cf65be8d51f3bcaa4bcc04bd4b096e96ed63dd9"
+
+[option]
+optional = true
+default = true
+description = "Seamlessly swap between recipes in the event of a conflict."

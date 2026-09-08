@@ -1,0 +1,13 @@
+name = "Mod Name Tooltip"
+filename = "modnametooltip-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUwaWg88/versions/JQQRBDgB/modnametooltip-1.2.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "8ab179aa210d7f12399b9cdae5b88ffbbcc48f586c6aa41eccae7304258c351b"
+
+[option]
+optional = true
+default = true
+description = "A mod for BTA that adds an item's mod name to it's tooltip."

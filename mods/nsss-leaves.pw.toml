@@ -1,0 +1,13 @@
+name = "NSSS Leaves"
+filename = "nsssleaves-1.1.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVdxILrQ/versions/wxovJcoK/nsssleaves-1.1.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "41be453069c0dacb7414b55f301bd7ef75a51bc8dd8868ea1c4fff246570e8e6"
+
+[option]
+optional = true
+default = true
+description = "Adds the leaves behavior from NSSS into BTA! Items now fall through leaves, and leaves can be broken quicker with a sword. Note: This does not make leaves change their texture according to seasons like NSSS does."

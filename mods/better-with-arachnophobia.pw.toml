@@ -1,0 +1,13 @@
+name = "Better with Arachnophobia"
+filename = "better_with_arachnophobia-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SajmonOriginal/better-with-arachnophobia/releases/download/v1.0.0/better_with_arachnophobia-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "2be30a2d639e8ee0a8abe3c10fe9488266de2bd5c2be316d1875b42ff9dc9ba6"
+
+[option]
+optional = true
+default = true
+description = "Every vanilla BTA spider gets replaced with a flat photo of a real cat that follows the camera, meows at you, and occasionally screams. Because if something is going to sneak up on you in a cave and murder you, it might as well be cute about it."

@@ -1,0 +1,13 @@
+name = "Melrose Extended Chests"
+filename = "extended_chests-2.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yEWI2bLt/versions/2UWj5DJq/extended_chests-2.0.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "87375bcdb7371df51b3e7588c8c88022899820b02b8cafb6de408912af147b0b"
+
+[option]
+optional = true
+default = true
+description = "Expands upon Astoria's Iron Chests by adding new chests made out of Signal Industries materials."

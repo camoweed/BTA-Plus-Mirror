@@ -1,0 +1,13 @@
+name = "ToLaserBlade"
+filename = "tolaserblade-bta-1.4.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Luxblsiv/versions/BA6Nwh5q/tolaserblade-bta-1.4.0%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "97ba8440e3c4ba48978e53c800c83dd12228f7c3ed531e7ae80e3bd37c8e11f1"
+
+[option]
+optional = true
+default = true
+description = "Adds a sword with a laser blade."

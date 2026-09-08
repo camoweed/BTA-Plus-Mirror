@@ -1,0 +1,13 @@
+name = "Extra Dyables"
+filename = "dyables-2.1.3+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vJ5ljlI/versions/7XB8BCWX/dyables-2.1.3%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "cc2d5ea799e95909378de93fc5b1d2c7fe59a8598023a77fdd7df27ed83b8786"
+
+[option]
+optional = true
+default = true
+description = "Extra Dyables adds dyable versions of the bookshelf, workbench, glass block, door and trapdoor, along with the seat and bed."

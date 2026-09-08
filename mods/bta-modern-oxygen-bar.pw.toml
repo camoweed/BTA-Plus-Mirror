@@ -1,0 +1,13 @@
+name = "BTA! Modern Oxygen Bar"
+filename = "modern_oxygen_bar-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JElrDMR4/versions/Lwbkdejx/modern_oxygen_bar-1.0.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "f206c006f5f84a79181497849b9ea1750f9ac18de0e0d9a97d43e2fa5cf8659b"
+
+[option]
+optional = true
+default = true
+description = "Backports the modern oxygen bar from 1.21.2 to BTA!"

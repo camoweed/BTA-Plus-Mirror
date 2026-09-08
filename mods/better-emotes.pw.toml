@@ -1,0 +1,13 @@
+name = "Better Emotes"
+filename = "betteremotes-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JN6P0mB3/versions/yUFAIDDl/betteremotes-1.1.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "b33791d1601b6cc12aab0354b2838b7be454cf06b53c2c95cc878d60818e0733"
+
+[option]
+optional = true
+default = true
+description = "Expands the emote selector to include way more options. Extra emotes appear below default ones. Configurable."

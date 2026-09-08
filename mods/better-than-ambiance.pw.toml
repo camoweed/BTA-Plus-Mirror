@@ -1,0 +1,13 @@
+name = "Better than Ambiance"
+filename = "betterthanambiance-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nllgKgDu/versions/1LkkuYGC/betterthanambiance-2.1.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "41fc8244ecda8a2eda1639becef9915b345af0977a3efbd65b3a5894fac227d5"
+
+[option]
+optional = true
+default = true
+description = "An ambiance mod for Better than Adventure! that improves rain and other ambient sounds!"

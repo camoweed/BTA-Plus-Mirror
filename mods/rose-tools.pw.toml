@@ -1,0 +1,13 @@
+name = "Rose Tools"
+filename = "rosesword-1.3.3+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/camoweed/rose-tools/releases/download/1.3.3/rosesword-1.3.3+8.0.1.jar"
+hash-format = "sha256"
+hash = "2cf1e7d88f2ee901e2c99ab5c23afa355b3f1e050df96157bebac587071c3291"
+
+[option]
+optional = true
+default = true
+description = "Tier of tools with unique effects such as treecapitator or veinmine."

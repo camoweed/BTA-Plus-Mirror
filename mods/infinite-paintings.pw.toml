@@ -1,0 +1,13 @@
+name = "Infinite Paintings"
+filename = "infdevpluspaintings-1.1.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFRYDovv/versions/5xT9HufE/infdevpluspaintings-1.1.0%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "91f167a9c1b2755f29d3b1c29425e11818fbb8d3a2d6de5b297976c7e2f38343"
+
+[option]
+optional = true
+default = true
+description = "Adds paintings from Infdev+ to BTA! Paintings can be accessed just like normal through the in game menu."

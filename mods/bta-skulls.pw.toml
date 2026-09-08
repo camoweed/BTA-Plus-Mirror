@@ -1,0 +1,13 @@
+name = "BTA Skulls"
+filename = "btaskulls-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThisIsVerse/BTA-Skulls/releases/download/1.0.0/btaskulls-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "fd178ee57276922a27c8a8f02f3400d813618d0b18dfefe4823cfe0a3d90cab4"
+
+[option]
+optional = true
+default = true
+description = "When a player dies, their inventory is stored in a grave using their head and skin. The owner can break the grave to recover its contents, and the grave drops a decorative copy of the player's head."

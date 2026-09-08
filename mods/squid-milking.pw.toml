@@ -1,0 +1,13 @@
+name = "Squid Milking"
+filename = "squidmilk-1.1.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyUoJF9U/versions/7X8gUlxW/squidmilk-1.1.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "6b4fc5a96c8c4f98e7217bc970425f46dbdcd1aa58be133343732323052d0ed0"
+
+[option]
+optional = true
+default = true
+description = "Milk squids in Better than Adventure! like its Beta 1.2! Simply right-click on a squid with a bucket in your hand to recieve a bucket of mystical squid milk."

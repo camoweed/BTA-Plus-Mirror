@@ -1,0 +1,13 @@
+name = "Better With Hands"
+filename = "better_with_hands-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iyLOebux/versions/CepnEvUr/better_with_hands-1.0.2%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "8cc99a07c0515a008778e825779ced74dd7acdd4d07f18e538bf4199dbff597b"
+
+[option]
+optional = true
+default = true
+description = "Better With Hands is a reimagining of the offhand system for BTA (Better Than Adventure). This isn't a lazy port it's what dual-wielding should have been from the start."

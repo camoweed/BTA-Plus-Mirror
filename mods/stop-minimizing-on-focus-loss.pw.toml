@@ -1,0 +1,13 @@
+name = "Stop Minimizing on Focus Loss"
+filename = "stop_minimizing_on_focus_loss-0.1.1+bta-8.0.1-babric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Brn4WjBD/versions/I0SkAIdu/stop_minimizing_on_focus_loss-0.1.1%2Bbta-8.0.1-babric.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "4609842b05eeab7d7b4b3517f7d759830737744a18ec637e22e0b21a447f4e38"
+
+[option]
+optional = true
+default = true
+description = "Prevents Minecraft fullscreen windows from minimizing when focus is lost."

@@ -1,0 +1,13 @@
+name = "Flowered Leaves"
+filename = "floweringleaves-2.0.1+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oc0K4uSU/versions/VmrUI954/floweringleaves-2.0.1%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "6811bb90bf3f3ff37978aa1abb87122e99b8695e2e2c7111f77b8b96543c4757"
+
+[option]
+optional = true
+default = true
+description = "Flowered Leaves is a Better Than Adventure! mod that allows you to interact with a leaves block while holding a flower to attach it to the block. Flowered leaves can be interacted with an empty hand or broken to return the flower."

@@ -1,0 +1,13 @@
+name = "Signal Industries"
+filename = "signalindustries-0.28.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3F9H5wFy/versions/7y8WUJFe/signalindustries-0.28.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "d57c4ac510d97c64a97f5161bf59874b7d59fdb3acc16ca3c1ab4d003ed27561"
+
+[option]
+optional = true
+default = true
+description = "Signal Industries is a mod focused on tech progression, powerful equipment with various abilities and machines, including multiblocks and also includes QoL changes, new monsters, challenges, a lot of achievements, a new dimension to explore and much more coming or already planned!"

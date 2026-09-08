@@ -1,0 +1,13 @@
+name = "BTA Freecam"
+filename = "freecam-1.1.1+8.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2WeK9i3/versions/XqVeETRM/freecam-1.1.1%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "cde28ec518fc97792484d148919706031eb0d4df3e3923ba31674a338deda07f"
+
+[option]
+optional = true
+default = true
+description = "A client-only mod for Better Than Adventure! which allows you to control your camera isolated from your player, making it a convenient tool for inspecting builds and machines."

@@ -1,0 +1,13 @@
+name = "Computer Craft"
+filename = "cc-bta-v8.0-1.96.16.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gungun974/BTA-CC-Tweaked/releases/download/v8.0-1.96.16/cc-bta-v8.0-1.96.16.jar"
+hash-format = "sha256"
+hash = "9757de1515b99d6eb3ad64fb2132baf46cc6097f15af3ed8836cfe240b728683"
+
+[option]
+optional = true
+default = true
+description = "Full fat Computer Craft Tweaked! Just like the modern version with little compromise. Program scripts in lua using computers and turtles."

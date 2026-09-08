@@ -1,0 +1,13 @@
+name = "BTA They Stole Max's Brain !"
+filename = "brainless-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xdWfdq0v/versions/acfnkCNP/brainless-1.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "400b5b5c21ae3f36beabc46d7eb40f770526d1ff470f1f9b4dd25ac7555df813"
+
+[option]
+optional = true
+default = true
+description = "To use it, you only need to apply a name tag labeled `Brain Screw` to a mob. After that, the mob will stop moving completely."

@@ -1,0 +1,8 @@
+name = "BOP-1.1.2-1.6.4"
+filename = "BOP-1.1.2-1.6.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Glitchfiend/BiomesOPlenty/archive/refs/tags/BOP-1.1.2-1.6.4.zip"
+hash-format = "sha256"
+hash = "6c9adc31ad40fdc4316c6a13d2e6378efafc0e83d2bced7f18bb35bdc3472695"

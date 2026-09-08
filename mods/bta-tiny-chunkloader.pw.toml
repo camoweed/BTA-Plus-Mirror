@@ -1,0 +1,13 @@
+name = "BTA Tiny Chunkloader"
+filename = "tinychunkloader-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kuzKd9Rz/versions/N0BuW33w/tinychunkloader-2.0.2.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "fce053eb81b265ab850ec0bcc2adfbbf02b0c46769ee96c560e841ee4adbdedb"
+
+[option]
+optional = true
+default = true
+description = "A chunk loader for my dear BTA"

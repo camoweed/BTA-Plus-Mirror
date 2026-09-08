@@ -1,0 +1,13 @@
+name = "Better with Elevators"
+filename = "betterwithelevators-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MelonMojito/Better-with-Elevators/releases/download/v1.0.1/betterwithelevators-1.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "8bdf3329c01e9e86953a187f78aded89c0006d77e7fc56a2da9faadfe919b9b8"
+
+[option]
+optional = true
+default = true
+description = "Stand on an elevator block and jump to teleport up to the next elevator block, or sneak to drop to the one below. By default the elevator block is the steel block, but any block can be used - see /elevator block. Works on dedicated servers and in singleplayer as a client-side mod."

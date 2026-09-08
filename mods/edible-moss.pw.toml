@@ -1,0 +1,13 @@
+name = "Edible Moss"
+filename = "ediblemoss-1.1.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9iSqYgea/versions/Bafq21V8/ediblemoss-1.1.0%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "7d1be7187a999148f8b9473195104fcc6f4899419dca377947bf929c17bbf10a"
+
+[option]
+optional = true
+default = true
+description = "Eat moss right off the stone! Right click with an empty hand."

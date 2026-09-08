@@ -1,0 +1,13 @@
+name = "Health Indicator"
+filename = "simplehealthindicator-2.2.0+8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G4KbftEO/versions/3Y2LHFLh/simplehealthindicator-2.2.0%2B8.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "f56a19a44e967d11b2a8ccf767dd68310a451337d5954304dbd5d73e949694ce"
+
+[option]
+optional = true
+default = true
+description = "A health indicator mod for Better Than Adventure."

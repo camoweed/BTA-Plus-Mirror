@@ -1,0 +1,8 @@
+name = "ElementalCreepers_v1.4"
+filename = "ElementalCreepers_v1.4.zip"
+side = "both"
+
+[download]
+url = "https://b2.mcarchive.net/file/mcarchive/340befa2684a7336d8d5e7f418cc6e88c945f5596ab3edf73b4e157b527e09e7/ElementalCreepers_v1.4.zip"
+hash-format = "sha256"
+hash = "340befa2684a7336d8d5e7f418cc6e88c945f5596ab3edf73b4e157b527e09e7"

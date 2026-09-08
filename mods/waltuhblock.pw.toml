@@ -1,0 +1,13 @@
+name = "waltuhblock"
+filename = "waltuhblock-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Rose-SMP/waltuhblock/releases/download/1.2.0/waltuhblock-1.2.0.jar"
+hash-format = "sha256"
+hash = "fce2a21f7007ae829cfe13df002731f698f120d3d7b7690b77836186858f9e14"
+
+[option]
+optional = true
+default = true
+description = "Adds the waltuhblock which can be crafted from 9 diamond blocks."

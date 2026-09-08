@@ -1,0 +1,13 @@
+name = "Better With Bags"
+filename = "better_with_bags-1.0.3+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qKHKQvPV/versions/aeuuHjem/better_with_bags-1.0.3%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "f187d39197c657776a77bf2b4bc4bb1d0cf0be49b3d994eb11a30f0a36d14f39"
+
+[option]
+optional = true
+default = true
+description = "Better With Bags mod that adds wearable, placeable storage to Better Than Adventure"

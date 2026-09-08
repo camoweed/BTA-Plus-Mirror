@@ -1,0 +1,13 @@
+name = "ArmorHud"
+filename = "ArmorHud-1.0.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/ArmorHud/releases/download/1.0.1%2B8.0.1/ArmorHud-1.0.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "bf4e8221e0df2f3e650bae0b369b8ddd9babf92bb43254d126a7283918ea57c0"
+
+[option]
+optional = true
+default = true
+description = "It adds a simpler and more visually appealing version of the armor bar from 7.3. Players have the choice between rendering the actual icon of the item they are wearing or having an tinted icon showing the slots durability. The default armor hud is disabled."

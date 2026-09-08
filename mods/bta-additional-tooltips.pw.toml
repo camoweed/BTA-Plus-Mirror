@@ -1,0 +1,13 @@
+name = "BTA! Additional Tooltips"
+filename = "additionaltooltips-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kjF0rquD/versions/jLXzhXxu/additionaltooltips-1.0.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "a8e304f24cbcb2190fa548534451ee4e645f40d86681a9c1bdf03b3d2d6447f3"
+
+[option]
+optional = true
+default = true
+description = "Adds more information to item tooltips like food regen, armor protection values, tool and arrow damage, tool mining efficiency, item durability and map and flag art."
