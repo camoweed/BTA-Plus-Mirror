@@ -343,6 +343,11 @@ hash = "252102041a711945c2f0f95a635857b42408ceccbecd8de739da3195a634cb61"
 metafile = true
 
 [[files]]
+file = "mods/mocreatures-zip.pw.toml"
+hash = "48fc7c1808e762112b76a0955e8f55c93d713aed8544388371bd331453cdba40"
+metafile = true
+
+[[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "83a07bd274fce825e9ae090612fbcf54a3f1c0e807af2fc841e134c54365ea45"
 metafile = true
