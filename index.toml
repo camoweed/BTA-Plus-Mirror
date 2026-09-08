@@ -203,11 +203,6 @@ hash = "d547a4d30f2f2c5ccef96e9195e167b74250c3243f45893e750d877aab6511a7"
 metafile = true
 
 [[files]]
-file = "mods/drzharks-mocreatures-mod-2-12-2-1.pw.toml"
-hash = "01044367daddee814b76de1fa20b32e78f74434571030334c474f40047ae1569"
-metafile = true
-
-[[files]]
 file = "mods/e4bta-voice-alpha.pw.toml"
 hash = "6e1dce653655516b5f1681066846294847b5e034e39cc6ed2f42333f932f4495"
 metafile = true
