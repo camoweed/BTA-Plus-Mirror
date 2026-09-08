@@ -103,11 +103,6 @@ hash = "235879179909354eee7986f2f6d828a06fa3af846bd1a7dc282452e0f8ed7b24"
 metafile = true
 
 [[files]]
-file = "mods/better-with-industrial-craft.pw.toml"
-hash = "d9007bce51757888ea0cab2265d77073e68b7b637f3bc7e311b4b754bbf68b24"
-metafile = true
-
-[[files]]
 file = "mods/better-with-magnets.pw.toml"
 hash = "6a7b75c16c98ff92e25289144b95ba354d4111df0e1ba12848f74e647972f599"
 metafile = true
@@ -195,21 +190,6 @@ metafile = true
 [[files]]
 file = "mods/cupboards.pw.toml"
 hash = "518f93d2005baea3ea32d3cab7e088c99acb5be3b2e6cfffa47496ed65396b09"
-metafile = true
-
-[[files]]
-file = "mods/deep.pw.toml"
-hash = "d547a4d30f2f2c5ccef96e9195e167b74250c3243f45893e750d877aab6511a7"
-metafile = true
-
-[[files]]
-file = "mods/e4bta-voice-alpha.pw.toml"
-hash = "6e1dce653655516b5f1681066846294847b5e034e39cc6ed2f42333f932f4495"
-metafile = true
-
-[[files]]
-file = "mods/e4bta.pw.toml"
-hash = "af05f6eab5cef6c0337ab8faeeab9d87dbd59dbd13d04e0e39223bd24ea7a7b6"
 metafile = true
 
 [[files]]
