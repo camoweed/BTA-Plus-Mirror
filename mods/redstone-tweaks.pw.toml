@@ -1,0 +1,13 @@
+name = "Redstone Tweaks"
+filename = "redstonetweaks-2.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eedYvC1G/versions/fJB8TRK4/redstonetweaks-2.0.0%2B8.0.1.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "6489da5dd8db8714d13d9284d68c4de50e6daff045473da9d7dee15edb80e508"
+
+[option]
+optional = true
+default = true
+description = "A mod that aims to improve BTA! redstone mechanics :)"

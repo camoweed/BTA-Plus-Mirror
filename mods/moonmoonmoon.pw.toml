@@ -1,0 +1,13 @@
+name = "MoonMoonMoon"
+filename = "moonsteel-1.1.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/moonmoonmoon/releases/download/v1.1.2%2B8.0.1/moonsteel-1.1.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "3b6f073c3cd00305ad423a5eff6eb33189412bc9e638d61f1572524ca8ea13e9"
+
+[option]
+optional = true
+default = true
+description = "MoonMoonMoon is a mod that adds a cosmic new material to BTA called Moonsteel. Moonsteel is a magical material which grants tools the ability of fortune and looting, and weight reduction armor. It also adds fallen stars which will drop down from the sky at night and can be used to craft all of the new items and blocks found in MoonMoonMoon."

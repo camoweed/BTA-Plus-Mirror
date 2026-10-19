@@ -1,0 +1,13 @@
+name = "Shapes n Sizes"
+filename = "shapesnsizes-1.0.14+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/colinthepwner/shapes-n-sizes-bta/releases/download/v1.0.14/shapesnsizes-1.0.14+8.0.1.jar"
+hash-format = "sha256"
+hash = "28115fdaffbc15bde93c9171ac993adcab49da65d99d745fc3bf019eded1c4bb"
+
+[option]
+optional = true
+default = true
+description = "Resize players in Better than Adventure! 8.0.1 (Babric / Fabric), anywhere from a tenth of normal size up to sixteen times it."

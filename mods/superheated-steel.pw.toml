@@ -1,0 +1,13 @@
+name = "Superheated Steel"
+filename = "superheatedsteel-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://assets.rosesmp.com/share/hosted-mods/superheatedsteel-1.0.0%2B8.0.1.jar"
+hash-format = "sha256"
+hash = "4fbcbc573fd1d4b064c7d9f17d353764b3812210e6aeddb64f09e2d5368ad7a3"
+
+[option]
+optional = true
+default = true
+description = "This mod essentially adds equivalencies to the fortune and the fire aspect enchantments, designed to be more in line with BTA"

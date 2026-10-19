@@ -1,0 +1,13 @@
+name = "Stardew Farming"
+filename = "stardew-3.5.6+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Redart15/stardew-farming-bta/releases/download/3.5.6%2B8.0.1/stardew-3.5.6+8.0.1.jar"
+hash-format = "sha256"
+hash = "cfb4264d4ef20f627f170b0e8c4244b7863c18aa94f15aaa47657e5f4ba202ae"
+
+[option]
+optional = true
+default = true
+description = "A farming mod for BTA inspired by stardew valley! Have you ever wanted more crops and farming added to BTA? More food choices and more reason to use seasons? Here is the mod for you"

@@ -1,11 +1,11 @@
 name = "Better Than Battle Towers"
-filename = "betterbattletowers-5.0.5+8.0.1.jar"
+filename = "betterbattletowers-5.0.6+8.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/df2b2BLx/versions/xxLqXZaU/betterbattletowers-5.0.5%2B8.0.1.jar?mr_download_reason=standalone"
+url = "https://cdn.modrinth.com/data/df2b2BLx/versions/iVru8Y3G/betterbattletowers-5.0.6%2B8.0.1.jar?mr_download_reason=standalone"
 hash-format = "sha256"
-hash = "affee238cf3e76bb0b72b32a09b8db2bc731d237d709af3a35c7b6288245ecdf"
+hash = "892e8ddf9fde779dce101cfbb6947bfa5dc15192a9cc2b48a386d79e149979b7"
 
 [option]
 optional = true

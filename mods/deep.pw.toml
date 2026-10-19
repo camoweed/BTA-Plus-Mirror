@@ -1,0 +1,13 @@
+name = "DEEP"
+filename = "deep-1.0.1+8.0.jar"
+side = "both"
+
+[download]
+url = "https://assets.rosesmp.com/share/hosted-mods/deep-1.0.1%2B8.0.jar"
+hash-format = "sha256"
+hash = "7a2ed8e7143fea92c8f205f84f20c77522b31d2191834e32784e03fcc9591d7c"
+
+[option]
+optional = true
+default = true
+description = "A mod that adds a variety of new features to BTA with a focus adding more to the deeper regions of the world!"

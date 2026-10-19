@@ -1,0 +1,13 @@
+name = "stepItUp"
+filename = "stepItUp-1.0.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheBuzzGod/stepItUp/releases/download/v1.0.0/stepItUp-1.0.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "c99378a64f7f7f8174531c61b7551512c57e690bb3aeb6abd1fd38185938aba9"
+
+[option]
+optional = true
+default = false
+description = "Step it up for BTA! Seamlessly walk up 1 block heights."

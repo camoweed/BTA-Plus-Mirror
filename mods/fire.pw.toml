@@ -1,0 +1,13 @@
+name = "Fire+"
+filename = "fireplus-v1.jar"
+side = "both"
+
+[download]
+url = "https://assets.rosesmp.com/share/hosted-mods/fireplus-v1.jar"
+hash-format = "sha256"
+hash = "cba179100ef81179f10ed7d9ff420d9077b99d8dbda80df9386c1378c2186bcc"
+
+[option]
+optional = true
+default = true
+description = "Igniting the block/side of block creates the color of the respective material, you can right click a brazier with the respective matieral to change its color!"

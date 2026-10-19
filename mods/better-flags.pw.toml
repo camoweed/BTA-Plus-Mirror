@@ -1,0 +1,13 @@
+name = "Better Flags"
+filename = "betterflags-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bartkk0/bta-better-flags/releases/download/1.0.2/betterflags-1.0.2+8.0.1.jar"
+hash-format = "sha256"
+hash = "91c7f9dd0210de20f527e4c5aa7ba816b3dfd0a4f78536435eb2135328f7aef0"
+
+[option]
+optional = true
+default = true
+description = "Adds a few quality-of-life features to the flags in Better Than Adventure."

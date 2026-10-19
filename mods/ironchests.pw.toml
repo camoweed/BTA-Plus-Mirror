@@ -3,7 +3,7 @@ filename = "afloydironchest-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/UselessSolutions/bta-ironchests/releases/download/v3.0.2-8.0.1/afloydironchest-3.0.2.jar"
+url = "https://cdn.modrinth.com/data/OkJIrOFd/versions/d8qA0GET/afloydironchest-3.0.2.jar?mr_download_reason=standalone"
 hash-format = "sha256"
 hash = "0e82d81a3b40f4e10842e418f7ef0922266c0f203e844ffbce2733f44e84e622"
 

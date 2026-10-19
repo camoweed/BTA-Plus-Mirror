@@ -1,11 +1,11 @@
 name = "Finally More Biomes"
-filename = "betteroplenty-0.1.14+8.0.1.jar"
+filename = "betteroplenty-0.1.17+8.0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/colinthepwner/finally-more-biomes-bta/releases/download/v0.1.14/betteroplenty-0.1.14+8.0.1.jar"
+url = "https://github.com/colinthepwner/finally-more-biomes-bta/releases/download/v0.1.17/betteroplenty-0.1.17+8.0.1.jar"
 hash-format = "sha256"
-hash = "7ae8e527f5302aafb4b99782b1bc9bef24958b1287c09da8547c6889f52e0406"
+hash = "bad4d27a35e81bda13b93e1f490a945e196963312eacc9d65ce365ce023c673b"
 
 [option]
 optional = true

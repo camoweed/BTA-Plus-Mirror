@@ -1,0 +1,13 @@
+name = "Better With Furniture"
+filename = "betterwithfurniture-1.1.1+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/varianttombstones/better-with-furniture/releases/download/Release_1.1/betterwithfurniture-1.1.1+8.0.1.jar"
+hash-format = "sha256"
+hash = "7d9f5eeb953d192962c58beee6a0f16957cbab572082d64e13e101ecb3cbd067"
+
+[option]
+optional = true
+default = true
+description = "Better With Furniture is a furniture mod for Better than Adventure that adds multiple new furniture blocks designed to try and fit with the vanilla version of BTA!"

@@ -1,0 +1,13 @@
+name = "Herobrine"
+filename = "herobrinemod-1.5.0+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Losjomods/Simple-Herobrine/releases/download/v1.5.0/herobrinemod-1.5.0+8.0.1.jar"
+hash-format = "sha256"
+hash = "b32035a7755c860210d6f6f520cb7550f29770af40ab354a890445effcd1b277"
+
+[option]
+optional = true
+default = false
+description = "A simple herobrine mod by Losjo. As the name suggests its simple, he doesnt do alot he stares and stalks but doesnt mess with the world"

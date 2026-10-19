@@ -1,0 +1,13 @@
+name = "Block Frames"
+filename = "blockframes-1.0.2+8.0.1.jar"
+side = "both"
+
+[download]
+url = "https://assets.rosesmp.com/share/hosted-mods/blockframes-1.0.2%2B8.0.1.jar"
+hash-format = "sha256"
+hash = "62ac4cbc3d322d57a64ecb69cc9b4d127ff71c9583154140aa281f1c6c18df6e"
+
+[option]
+optional = true
+default = true
+description = "Adds blocks that take on other blocks' textures, applying them to other block shapes! Similar to mods like Carpenter's Blocks, Framed Blocks and Copycats+"

@@ -1,0 +1,13 @@
+name = "Better With Shaders"
+filename = "better-with-shaders-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://assets.rosesmp.com/share/hosted-mods/better-with-shaders-0.0.1.jar"
+hash-format = "sha256"
+hash = "3af14783db35add558ac2e9c6b5ab7e2bec41cf2eb41c374704656667b621eb9"
+
+[option]
+optional = true
+default = true
+description = "Loads almost any shader that works on 1.12.2."

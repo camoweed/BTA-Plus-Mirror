@@ -1,11 +1,11 @@
 name = "TLOTD"
-filename = "tlotd-0.0.7+8.0.jar"
+filename = "tlotd-0.0.8+8.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/slxGtWWB/versions/ag3e75hV/tlotd-0.0.7%2B8.0.jar?mr_download_reason=standalone"
+url = "https://cdn.modrinth.com/data/slxGtWWB/versions/NOEJQY40/tlotd-0.0.8%2B8.0.1.jar?mr_download_reason=standalone"
 hash-format = "sha256"
-hash = "956a7421e9b07f3f5d2637f21da1c1a830530c10faefeba052ad8d60fd08b182"
+hash = "7e9b845ecb10266502151ca52ee0fc14d3c46c7af7ef41c07c5d84dd4aba3750"
 
 [option]
 optional = true

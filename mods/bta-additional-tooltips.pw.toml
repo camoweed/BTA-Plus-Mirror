@@ -1,11 +1,11 @@
 name = "BTA! Additional Tooltips"
-filename = "additionaltooltips-1.0.0.jar"
+filename = "additionaltooltips-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kjF0rquD/versions/jLXzhXxu/additionaltooltips-1.0.0.jar?mr_download_reason=standalone"
+url = "https://cdn.modrinth.com/data/kjF0rquD/versions/3m7hsdb8/additionaltooltips-1.1.0.jar?mr_download_reason=standalone"
 hash-format = "sha256"
-hash = "a8e304f24cbcb2190fa548534451ee4e645f40d86681a9c1bdf03b3d2d6447f3"
+hash = "f137f0972c53b12c5853ad8bee8c24b64afcecee0c811e4efb0e51a72ee48468"
 
 [option]
 optional = true

@@ -1,0 +1,13 @@
+name = "Better With Aether"
+filename = "better-with-aether-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuEXy2ir/versions/HqjqIwlQ/better-with-aether-1.1.0.jar?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "76bf5876da16258be0e69e35d02acf09b9074e517bcefc7ab99e2c1eada97936"
+
+[option]
+optional = true
+default = true
+description = "This mod is a remake to port the Aether 1.02 to BTA. The legendary dimension has finally arrived to Better Than Adventure!"
